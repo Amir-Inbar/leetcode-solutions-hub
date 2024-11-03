@@ -1,0 +1,96 @@
+Here are 30 common LeetCode-style JavaScript coding questions you might encounter in technical interviews. These questions cover various fundamental topics such as arrays, strings, linked lists, dynamic programming, recursion, and sorting.
+
+1. **Two Sum**
+   - Problem: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+ 
+2. **Valid Parentheses**
+   - Problem: Given a string containing just the characters `(`, `)`, `{`, `}`, `[`, and `]`, determine if the input string is valid.
+
+3. **Longest Substring Without Repeating Characters**
+   - Problem: Find the length of the longest substring without repeating characters in a given string.
+
+4. **Palindrome Linked List**
+   - Problem: Check if a given singly linked list is a palindrome.
+
+5. **Merge Two Sorted Lists**
+   - Problem: Merge two sorted linked lists and return it as a new sorted list.
+
+6. **Reverse Linked List**
+   - Problem: Reverse a singly linked list.
+
+7. **Remove Duplicates from Sorted Array**
+   - Problem: Remove duplicates in place from a sorted array and return the new length of the array.
+
+8. **Best Time to Buy and Sell Stock**
+   - Problem: Find the maximum profit from buying and selling a stock at most once.
+
+9. **Maximum Subarray**
+   - Problem: Find the contiguous subarray with the largest sum.
+
+10. **Climbing Stairs**
+   - Problem: You are climbing a staircase with `n` steps, and you can either climb 1 or 2 steps at a time. Find how many distinct ways you can reach the top.
+
+11. **Binary Search**
+   - Problem: Given a sorted array, find the index of a target element using binary search.
+
+12. **Search Insert Position**
+   - Problem: Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+13. **Valid Anagram**
+   - Problem: Check if two strings are anagrams of each other.
+
+14. **Plus One**
+   - Problem: Given a non-empty array of digits representing a non-negative integer, increment the integer by one.
+
+15. **Intersection of Two Arrays II**
+   - Problem: Given two arrays, write a function to compute their intersection.
+
+16. **Majority Element**
+   - Problem: Find the element that appears more than `n/2` times in an array.
+
+17. **Find the Duplicate Number**
+   - Problem: Given an array with `n+1` integers where each integer is between 1 and `n` (inclusive), find the duplicate number.
+
+18. **Rotate Array**
+   - Problem: Rotate an array to the right by `k` steps.
+
+19. **Contains Duplicate**
+   - Problem: Check if a given array contains any duplicates.
+
+20. **Missing Number**
+   - Problem: Given an array containing `n` distinct numbers, find the number that is missing from the range `[0, n]`.
+
+21. **Product of Array Except Self**
+   - Problem: Return an array `output` such that `output[i]` is equal to the product of all the elements of the input array except `nums[i]`.
+
+22. **Group Anagrams**
+   - Problem: Given an array of strings, group the anagrams together.
+
+23. **Merge Intervals**
+   - Problem: Given a collection of intervals, merge all overlapping intervals.
+
+24. **Find the First and Last Position of Element in Sorted Array**
+   - Problem: Given a sorted array, find the first and last position of a given target element.
+
+25. **Word Break**
+   - Problem: Given a string and a dictionary of words, determine if the string can be segmented into a space-separated sequence of dictionary words.
+
+26. **Longest Palindromic Substring**
+   - Problem: Given a string, find the longest palindromic substring.
+
+27. **Coin Change**
+   - Problem: You are given coins of different denominations and a total amount of money. Find the fewest number of coins needed to make up the amount.
+
+28. **Top K Frequent Elements**
+   - Problem: Given a non-empty array of integers, return the `k` most frequent elements.
+
+29. **Kth Largest Element in an Array**
+   - Problem: Find the `k`th largest element in an unsorted array.
+
+30. **Lowest Common Ancestor of a Binary Tree**
+   - Problem: Find the lowest common ancestor of two given nodes in a binary tree.
+
+31. **Fibonacci Number**
+   - Problem: Find the `n`th Fibonacci number.
+
+These questions cover a broad range of data structures and algorithms, including array manipulation, dynamic programming, binary search, string operations, and graph/tree traversal, which are commonly tested during JavaScript coding interviews.
